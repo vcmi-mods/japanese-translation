@@ -1,0 +1,30 @@
+{
+	"name" : "Japanese translation",
+	"description" : "Japanese translation of Heroes of Might and Magic III: Complete Edition",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "",
+	"language" : "japanese",
+	"modType" : "Translation",
+	"compatibility" :
+	{
+		"min" : "1.7.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"german" : {
+		"name" : "Japanische Übersetzung",
+		"description" : "Japanische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+	},
+	"japanese" : {
+		"name" : "日本語訳",
+		"description" : "ヒーローズ・オブ・マイト・アンド・マジックIII：コンプリート・エディション』日本語翻訳版"	
+	},
+	"translations" : [
+		"config/vcmi-japanese/game.json",
+		"config/vcmi-japanese/maps.json",
+		"config/vcmi-japanese/campaigns.json"
+	]
+}
