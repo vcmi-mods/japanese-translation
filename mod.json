@@ -1,7 +1,7 @@
 {
 	"name" : "Japanese translation",
 	"description" : "Japanese translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"author" : "",
 	"contact" : "",
 	"language" : "japanese",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.1" : [ "Add AI translation" ],
 		"1.0.0" : [ "Initial release" ]
 	},
 	"german" : {
