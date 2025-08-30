@@ -25,6 +25,7 @@
 	"translations" : [
 		"config/vcmi-japanese/game.json",
 		"config/vcmi-japanese/maps.json",
-		"config/vcmi-japanese/campaigns.json"
+		"config/vcmi-japanese/campaigns.json",
+		"config/vcmi-japanese/chronicles.json"
 	]
 }

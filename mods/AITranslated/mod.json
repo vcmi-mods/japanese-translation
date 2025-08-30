@@ -1,0 +1,16 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by ChatGPT (gpt-4o-mini)",
+	"version" : "1.0",
+	"author" : "ChatGPT",
+	"contact" : "",
+	"language" : "japanese",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-japanese-ai/game.json",
+		"config/vcmi-japanese-ai/maps.json",
+		"config/vcmi-japanese-ai/campaigns.json",
+		"config/vcmi-japanese-ai/chronicles.json",
+		"config/vcmi-japanese-ai/vcmi.json"
+	]
+}
