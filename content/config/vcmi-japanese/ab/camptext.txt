@@ -1,0 +1,107 @@
+//Campaign Map Names
+女王陛下に栄えあれ
+解放
+父に捧げし歌
+ダンジョンズ＆デビルズ
+国王陛下に栄えあれ
+戦利品
+不満の種子
+竜を狩るもの
+放蕩者一代記
+命の祝祭
+ドラゴンの血
+炎とともに踊れ
+滅びの剣
+
+
+//Good 1 Map Region Names
+サウスポート
+エンジェルゲート
+グリフォンクリフ
+
+
+//Good 2 Map Region Names
+バトルステッド
+イーオフォル
+マーシュランド＆ヒルブリッジ
+グレインリッチ＆ファイヤーコースト
+
+
+//Good 3 Map Region Names
+フォレストロー
+エメラルドヒルからウッドグローブ
+マーブルガーデン
+
+
+//Evil 1 Map Region Names
+ライオンポイント
+グレインリッチ
+バトルステッド
+ファイヤーコースト
+サウスポート
+エンジェルゲート
+グリフォンクリフ
+
+
+//Evil 2 Map Region Names
+マーブルガーデン
+エメラルドヒル
+ストロングウィロー＆ウッドグローブ
+フォレストベリー
+
+
+//Neutral 1 Map Region Names
+マーシュランド
+マインウェル
+ヒルブリッジ
+
+
+//Secret 1 Map Region Names
+クローバーフィールド
+モスウッド
+フォレストデール
+
+
+// Bracada Map Region Names
+竜を狩るものA
+竜を狩るものB
+竜を狩るものC
+竜を狩るものD
+
+
+// Islands Map Region Names
+放蕩者一代記A
+放蕩者一代記B
+放蕩者一代記C
+放蕩者一代記D
+
+
+// Krewlod Map Region Names
+命の祝祭A
+命の祝祭B
+命の祝祭C
+命の祝祭D
+
+
+// Nighon Map Region Names
+ドラゴンの血A
+ドラゴンの血B
+ドラゴンの血C
+ドラゴンの血D
+
+
+// Tatalia Map Region Names
+炎とともに踊れA
+炎とともに踊れB
+炎とともに踊れC
+
+
+// Armageddon Map Region Names
+滅びの剣A
+滅びの剣B
+滅びの剣C
+滅びの剣D
+滅びの剣E
+滅びの剣F
+滅びの剣G
+滅びの剣H

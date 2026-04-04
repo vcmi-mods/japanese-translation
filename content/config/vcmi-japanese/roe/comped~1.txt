@@ -1,0 +1,2 @@
+Compiled Editor Text.  Do not put this text into the LOD file.
+Fatal run-time error!

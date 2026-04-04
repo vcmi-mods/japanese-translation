@@ -1,0 +1,893 @@
+Rollover Text	Right-Click Text																						
+"Note: Do not change the headings in this file, they are used to detect problems"																							
+Main Menu																							
+	"{NEW GAME}
+
+ゲームを最初から開始します。"																						
+	"{LOAD GAME}
+
+セーブしたゲームをプレイします。"																						
+	"{HIGH SCORE}
+
+ハイスコアを表示します。"																						
+	"{CREDITS}
+
+スタッフリストを表示します。"																						
+	"{QUIT}
+
+Windowsに戻ります。"																						
+																							
+New Game	New Game																						
+	"{SINGLE SCENARIO}
+
+シングルシナリオを開始します。"																						
+	"{CAMPAIGN}
+
+キャンペーンゲームを開始します。"																						
+	"{MULTI-PLAYER}
+
+マルチプレイヤーシングルシナリオを開始します。"																						
+	"{TUTORIAL}
+
+ヒーローズ3の基本操作を学ぶためのチュートリアル
+シナリオを開始します。"																						
+	"{BACK}
+
+前の画面に戻ります。"																						
+																							
+Single Scenario Selection	Single Scenario Selection																						
+																							
+SCENARIO_BACKGROUND 																							
+ADVANCED_BACKGROUND 																							
+SCENARIO_NAME 	シナリオ名																						
+SCENARIO_DESC 	シナリオのあらすじを表示します。																						
+EASY 	"{ＥＡＳＹ}
+
+プレイヤーに有利な条件でスタートします。コンピュ
+ータは最低限の力しか発揮しません。"																						
+NORMAL 	"{ＮＯＲＭＡＬ}
+
+プレイヤーにやや有利な条件でスタートします。コン
+ピュータは適度に力を発揮します。"																						
+HARD 	"{ＨＡＲＤ}
+
+プレイヤーとコンピュータが同じ条件でスタートしま
+す。コンピュータは最大限の力を発揮してきます。"																						
+EXPERT 	"{ＥＸＰＥＲＴ}
+
+プレイヤーに不利な条件でスタートします。コンピュ
+ータは最大限の力を発揮してきます。"																						
+IMPOSSIBLE 	"{ＩＭＰＯＳＳＩＢＬＥ}
+
+プレイヤーは何も資源を持っていない状態からスター
+トします。コンピュータは最大限の力を発揮してきます。"																						
+ALLY_FLAG1 	自分の色です。																						
+ALLY_FLAG2 	この色のプレイヤーは味方です。																						
+ALLY_FLAG3 	この色のプレイヤーは味方です。																						
+ALLY_FLAG4 	この色のプレイヤーは味方です。																						
+ALLY_FLAG5 	この色のプレイヤーは味方です。																						
+ALLY_FLAG6 	この色のプレイヤーは味方です。		
+ALLY_FLAG7 	この色のプレイヤーは味方です。		
+ALLY_FLAG8 	この色のプレイヤーは味方です。		
+ENEMY_FLAG1 	この色のプレイヤーは敵です。		
+ENEMY_FLAG2 	この色のプレイヤーは敵です。		
+ENEMY_FLAG3 	この色のプレイヤーは敵です。		
+ENEMY_FLAG4 	この色のプレイヤーは敵です。		
+ENEMY_FLAG5 	この色のプレイヤーは敵です。		
+ENEMY_FLAG6 	この色のプレイヤーは敵です。		
+ENEMY_FLAG7 	この色のプレイヤーは敵です。		
+ENEMY_FLAG8 	この色のプレイヤーは敵です。		
+SCENARIO_OPTIONS 	シナリオリストを表示または隠します。		
+ADVANCED_OPTIONS 	上級オプションを表示または隠します。		
+CHAT_DESC 	シナリオ詳細画面とチャット画面を切り換えます。		
+MAP_DIFFICULTY 	"プレイヤーの難易度を＜ＥＡＳＹ＞＜ＮＯＲＭＡＬ＞
+＜ＨＡＲＤ＞＜ＥＸＰＡＲＴ＞＜ＩＭＰＯＳＳＩＢＬ
+Ｅ＞から選べます。"		
+RATING 	"マップおよびプレイヤーの難易度設定を基にした全体
+的な難易度を表示します。"		
+MAP_SIZE 	シナリオの全体的な難易度を表します。		
+VICTORY_CONDITION 	このシナリオの勝利条件です。		
+LOSS_CONDITION 	このシナリオの敗北条件です。		
+SMALL_FILTER 	Ｓマップをすべて表示します。		
+MEDIUM_FILTER 	Ｍマップをすべて表示します。		
+LARGE_FILTER 	Ｌマップをすべて表示します。		
+EXTRALARGE_FILTER 	ＸＬマップをすべて表示します。		
+ALL_FILTER 	すべてのマップを表示します。		
+SCENARIO_NAME_1 	SCENARIO_NAME_1 		
+SCENARIO_NAME_2 	SCENARIO_NAME_2 		
+SCENARIO_NAME_3 	SCENARIO_NAME_3 		
+SCENARIO_NAME_4 	SCENARIO_NAME_4 		
+SCENARIO_NAME_5 	SCENARIO_NAME_5 		
+SCENARIO_NAME_6 	SCENARIO_NAME_6 		
+SCENARIO_NAME_7 	SCENARIO_NAME_7 		
+SCENARIO_NAME_8 	SCENARIO_NAME_8 		
+SCENARIO_NAME_9 	SCENARIO_NAME_9 
+SCENARIO_NAME_10 	SCENARIO_NAME_10 
+SCENARIO_NAME_11 	SCENARIO_NAME_11 
+SCENARIO_NAME_12 	SCENARIO_NAME_12 
+SCENARIO_NAME_13 	SCENARIO_NAME_13 
+SCENARIO_NAME_14 	SCENARIO_NAME_14 
+SCENARIO_NAME_15 	SCENARIO_NAME_15 
+SCENARIO_NAME_16 	SCENARIO_NAME_16 
+SCENARIO_NAME_17 	SCENARIO_NAME_17 
+SCENARIO_NAME_18 	SCENARIO_NAME_18 
+ENTRY_SCENARIO_NAME_1 	ENTRY_SCENARIO_NAME_1 
+ENTRY_SCENARIO_NAME_2 	ENTRY_SCENARIO_NAME_2 
+ENTRY_SCENARIO_NAME_3 	ENTRY_SCENARIO_NAME_3 
+ENTRY_SCENARIO_NAME_4 	ENTRY_SCENARIO_NAME_4 
+ENTRY_SCENARIO_NAME_5 	ENTRY_SCENARIO_NAME_5 
+ENTRY_SCENARIO_NAME_6 	ENTRY_SCENARIO_NAME_6 
+ENTRY_SCENARIO_NAME_7 	ENTRY_SCENARIO_NAME_7 
+ENTRY_SCENARIO_NAME_8 	ENTRY_SCENARIO_NAME_8 
+ENTRY_SCENARIO_NAME_9 	ENTRY_SCENARIO_NAME_9 
+ENTRY_SCENARIO_NAME_10 	ENTRY_SCENARIO_NAME_10 
+ENTRY_SCENARIO_NAME_11 	ENTRY_SCENARIO_NAME_11 
+ENTRY_SCENARIO_NAME_12 	ENTRY_SCENARIO_NAME_12 
+ENTRY_SCENARIO_NAME_13 	ENTRY_SCENARIO_NAME_13 
+ENTRY_SCENARIO_NAME_14 	ENTRY_SCENARIO_NAME_14 
+ENTRY_SCENARIO_NAME_15 	ENTRY_SCENARIO_NAME_15 
+ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16 
+ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 
+ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 
+TURN_DURATION 	持ち時間
+CHAT_TEXT 	チャットテキストが表示されます。
+CHAT_ENTRY 	ここにチャットテキストを書き込みます。
+CHAT_PLUG 	CHAT_PLUG 
+CHAT_PLAYER 	チャットに参加しているプレイヤーの名前が表示されます。						
+"CHAT_PLAYER_SLIDER,"	"CHAT_PLAYER_SLIDER,"						
+ROLLOVER 	ROLLOVER 						
+NEXT 	プレイ中のゲームをセーブします。						
+BEGIN 	選択したシナリオを開始します。						
+BACK 	BACK 						
+SSEXIT 	"このウィンドウを閉じます。
+(何も変更されません)"						
+WHICHMAP 	"選択しているマップのサイズ
+(Ｓ，Ｍ，Ｌ，ＸＬ)"						
+SORT_NUMBER 	プレイヤーの数別にマップを表示します。						
+SORT_SIZE 	サイズ別にマップを表示します。						
+SORT_ALPHA 	アルファベット順にマップを表示します。						
+SORT_VICTORY 	勝利条件別にマップを表示します。						
+SORT_LOSS 	敗北条件別にマップを表示します。						
+BRIEFING 	BRIEFING 						
+SSHERO 	SSHERO 						
+GOLDPIC 	GOLDPIC 						
+HUMAN_CPU1 	この色はプレイヤーまたはコンピュータがプレイします。
+HUMAN_CPU2 	この色はプレイヤーまたはコンピュータがプレイします。
+HUMAN_CPU3 	この色はプレイヤーまたはコンピュータがプレイします。
+HUMAN_CPU4 	この色はプレイヤーまたはコンピュータがプレイします。
+HUMAN_CPU5 	この色はプレイヤーまたはコンピュータがプレイします。
+HUMAN_CPU6 	この色はプレイヤーまたはコンピュータがプレイします。
+HUMAN_CPU7 	この色はプレイヤーまたはコンピュータがプレイします。
+HUMAN_CPU8 	この色はプレイヤーまたはコンピュータがプレイします。
+HANDICAP1 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+HANDICAP2 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+HANDICAP3 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+HANDICAP4 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+HANDICAP5 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+HANDICAP6 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+HANDICAP7 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+HANDICAP8 	"スタート時の条件を不利にすることで、このプレイヤ
+ーにハンデを与えます。"
+TOWN_LEFT1 	シナリオ開始時に支配している街を選択できます。
+TOWN_LEFT2 	シナリオ開始時に支配している街を選択できます。
+TOWN_LEFT3 	シナリオ開始時に支配している街を選択できます。
+TOWN_LEFT4 	シナリオ開始時に支配している街を選択できます。
+TOWN_LEFT5 	シナリオ開始時に支配している街を選択できます。
+TOWN_LEFT6 	シナリオ開始時に支配している街を選択できます。
+TOWN_LEFT7 	シナリオ開始時に支配している街を選択できます。
+TOWN_LEFT8 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE1 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE2 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE3 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE4 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE5 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE6 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE7 	シナリオ開始時に支配している街を選択できます。
+TOWN_RITE8 	シナリオ開始時に支配している街を選択できます。
+HERO_LEFT1 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_LEFT2 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_LEFT3 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_LEFT4 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_LEFT5 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_LEFT6 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_LEFT7 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_LEFT8 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE1 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE2 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE3 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE4 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE5 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE6 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE7 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+HERO_RITE8 	"支配している街によって、シナリオ開始時の勇者を選
+択できます。"
+RES_LEFT1 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_LEFT2 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_LEFT3 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_LEFT4 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_LEFT5 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_LEFT6 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_LEFT7 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_LEFT8 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE1 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE2 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE3 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE4 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE5 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE6 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE7 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+RES_RITE8 	"シナリオ開始時に勇者が所有しているボーナスを選択
+できます。"
+HERO_SETTING_1 	この色でプレイする場合はここをクリックします。
+HERO_SETTING_2 	この色でプレイする場合はここをクリックします。
+HERO_SETTING_3 	この色でプレイする場合はここをクリックします。
+HERO_SETTING_4 	この色でプレイする場合はここをクリックします。
+HERO_SETTING_5 	この色でプレイする場合はここをクリックします。
+HERO_SETTING_6 	この色でプレイする場合はここをクリックします。
+HERO_SETTING_7 	この色でプレイする場合はここをクリックします。
+HERO_SETTING_8 	この色でプレイする場合はここをクリックします。
+TOWN_SETTING_1 	TOWN_SETTING_1 
+TOWN_SETTING_2 	TOWN_SETTING_2 
+TOWN_SETTING_3 	TOWN_SETTING_3 
+TOWN_SETTING_4 	TOWN_SETTING_4 
+TOWN_SETTING_5 	TOWN_SETTING_5 
+TOWN_SETTING_6 	TOWN_SETTING_6 
+TOWN_SETTING_7 	TOWN_SETTING_7 
+TOWN_SETTING_8 	TOWN_SETTING_8 
+SLIDER_CHATWINDOW 	チャットテキストをスクロールします。																						
+SLIDER_FILEMENU 	"シナリオまたはセーブしたゲームのリストをスクロー
+ルします。"																						
+SLIDER_DURATION 	プレイヤーの持ち時間を変更できます。																						
+"PLAYER_HANDICAP_HEADER_ID,"	"{プレイヤー名 ／ハンディキャップ}
+
+プレイヤーが占めることのできるスロットは隣のバナ
+ーにマークが付いています。位置を変更するにはバナ
+ーをクリックしてください。プレイヤー名を変更する
+にはプレイヤー名をクリックしてください。
+＜ハンディキャップ＞ボタンをクリックすると、その
+プレイヤーにハンデを与えることができます。設定は
+＜ハンデなし＞＜小さい＞＜大きい＞から選べます。
+＜小さい＞＜大きい＞を選ぶと、シナリオ開始時の資
+源が減らされます。"																						
+"TURN_DURATION_HEADER_ID,"	"{プレイヤーの持ち時間}
+
+スライダーを使って持ち時間を設定できます。＜無制
+限＞以外に設定すると、非戦闘時に持ち時間がカウン
+トダウンされます。
+戦闘時はカウントダウンが中断します。
+持ち時間は1，2，4，6，8，10，15，20，25，30分に
+設定できます。デフォルトは＜無制限＞です。"																						
+"STARTING_TOWN_HEADER_ID,"	"{最初に支配する街}
+
+各プレイヤーは、最初に1つの街を支配することがで
+きます。支配する街は＜ランダム＞＜キャッスル＞＜
+ランパート＞＜タワー＞＜インフェルノ＞＜ネクロポ
+リス＞＜ダンジョン＞＜ストロングホールド＞＜フォ
+ートレス＞の中から選ぶことができます。
+最初に街を支配しない場合は、最初に支配できる勇者
+を選ぶ際の参考にしてください。"																						
+"STARTING_HERO_HEADER_ID,"	"{最初に支配する勇者}
+
+各プレイヤーは、最初に一人の勇者を支配することが
+できます。このオプションは時々ロックされたり表示
+されなくなる場合があります。それ以外の時は最大16
+人の勇者の中から選ぶことができます。＜最初に支配
+する街＞オプションが利用可能になっていれば、それ
+ぞれの勇者のクラスを変更することができます。
+勇者の名前、クラス、特殊技能を見るには、勇者の肖
+像を右クリックします。"																						
+"STARTING_BONUS_HEADER_ID,"	"{最初に所有するボーナス}
+
+＜ランダムアーティファクト＞＜黄金500～1000＞
+＜木材と鉱石5～10＞の中から選ぶことができます。"																						
+																							
+Multiplayer Selection	Multiplayer Selection																						
+																							
+オンラインサービス	"{オンラインサービス}
+
+オンラインサービスでプレイできます。"																						
+ホットシート	"{ホットシート}
+
+一つのコンピュータで複数のプレイヤーがプレイでき
+ます。"																						
+ＩＰＸ	"{ＩＰＸ}
+
+複数のプレイヤーが、ＬＡＮに接続している各自のコ
+ンピュータでプレイできます。"																						
+ＴＣＰ／ＩＰ	"{ＴＣＰ／ＩＰ}
+
+複数のプレイヤーが、ＬＡＮまたはインターネットに
+接続している各自のコンピュータでプレイできます。"																						
+モデム	"{モデム}
+
+2プレイヤーがモデムを通じて接続できます。"																						
+ダイレクト接続	"{ダイレクト接続}
+
+2プレイヤーがダイレクトシリアル接続を通じて接続
+できます。"
+ゲームを主宰する	"{ゲームを主宰（HOST）する}
+
+他のプレイヤーが参加できるようゲームを設定できま
+す。"
+ゲームに参加する	"{ゲームに参加（ＪＯＩＮ）する}
+
+他のプレイヤーが主宰するゲームに参加します。"
+ゲームを検索する	"{ゲームを検索する}
+
+参加したいゲームのＩＰアドレスを入力できます。"
+GAMENAME 1	GAMENAME 1
+GAMENAME 2	GAMENAME 2
+GAMENAME 3	GAMENAME 3
+GAMENAME 4	GAMENAME 4
+GAMENAME 5	GAMENAME 5
+GAMENAME 6	GAMENAME 6
+GAMENAME 7	GAMENAME 7
+GAMENAME 8	GAMENAME 8
+GAMENAME 9	GAMENAME 9
+GAMENAME 10	GAMENAME 10
+GAMENAME 11	GAMENAME 11
+GAMENAME 12	GAMENAME 12
+参加できるゲームをスクロール	参加できるゲームをスクロールします。																						
+																							
+キャンセル	前の画面に戻ります。																						
+																							
+Adventure Map Window																							
+ワールドマップ	"ワールドマップ全体を表示します。見たい場所をクリ
+ックするとその場所のアドベンチャーマップが表示さ
+れます。"																						
+ステータスウィンドウ	SELECTION WINDOW																						
+王国の概要	"{王国の概要}
+
+王国の街と勇者の概要を表示します。"																						
+地上／地下の表示	"{地上／地下の表示}
+
+アドベンチャーマップの表示を地上／地下に切り換え
+ます。"																						
+クエストログ	"{クエストログ}
+
+現在行っているクエストをすべて表示します。"																						
+勇者の睡眠／起床	"{勇者の睡眠／起床}
+
+選択した勇者の睡眠と起床を行います。眠っている勇
+者は＜次の勇者＞ボタンには表示されません。"																						
+勇者の移動	"{勇者の移動}
+
+選択したルートに沿って勇者を移動させます。"																						
+呪文の使用	"{呪文の使用}
+
+戦闘以外の呪文を使うことができます。"																						
+アドベンチャーオプション	"{アドベンチャーオプション}
+
+聖杯の掘り出しや聖杯パズルマップの表示、ワールド
+マップ、シナリオのあらすじを見ることができます。"																						
+システムオプション	"{システムオプション}
+
+プレイ中のゲームのオプションを開いて変更すること
+ができます。"																						
+次の勇者	"{次の勇者}
+
+移動ポイントの残っている勇者を選択します。眠って
+いる勇者は選択できません。"																						
+ターン終了	"{ターン終了}
+
+自分のターンを終了します。"
+勇者リストのスクロール	"{勇者リストのスクロール}
+
+使用可能な勇者をスクロールします。"
+勇者リストのスクロール	"{勇者リストのスクロール}
+
+使用可能な勇者をスクロールします。"
+勇者の肖像画	"{勇者の肖像画}
+
+クリックするとこの勇者が選択され、現在地がアドベ
+ンチャーマップ上で拡大されます。もう一度クリック
+すると勇者画面が表示されます。"
+タウンリストのスクロール	"{タウンリストのスクロール}
+
+利用可能な街を上にスクロールしていきます。"
+タウンリストのスクロール	"{タウンリストのスクロール}
+
+利用可能な街を下にスクロールしていきます。"
+街の肖像画	"{街の肖像画}
+
+クリックするとこの街が選択され、その位置がアドベ
+ンチャーマップ上で拡大されます。もう一度クリック
+すると街画面が表示されます。"
+黄金	所有している黄金
+木材	所有している木材
+水銀	所有している水銀
+鉱石	所有している鉱石
+硫黄	所有している硫黄
+水晶	所有している水晶
+宝石	所有している宝石
+日付	"{日付}
+
+現在の月、週、日付けです。"
+ROLLOVER	ROLLOVER
+																							
+System Options	System Options																						
+メインメニュー	"{メインメニュー}
+
+ゲームをやめてメインメニューに戻ります。"																						
+ロード	"{ロード}
+
+セーブしたゲームをロードします。"																						
+セーブ	"{セーブ}
+
+ゲームをセーブします。"																						
+シナリオの再開	"{シナリオの再開}
+
+シナリオを始めからやり直します。"																						
+デスクトップに戻る	"{デスクトップに戻る}
+
+ヒーローズ オブ マイト＆マジック３を終了します。"																						
+ゲームに戻る	"{ゲームに戻る}
+
+アドベンチャーマップに戻ります。"																						
+"MUSIC_VOLUME_0_ID,"	音楽を消します。																						
+"MUSIC_VOLUME_1_ID,"	音楽の音量を1に設定します。																						
+"MUSIC_VOLUME_2_ID,"	音楽の音量を2に設定します。																						
+"MUSIC_VOLUME_3_ID,"	音楽の音量を3に設定します。																						
+"MUSIC_VOLUME_4_ID,"	音楽の音量を4に設定します。																						
+"MUSIC_VOLUME_5_ID,"	音楽の音量を5に設定します。																						
+"MUSIC_VOLUME_6_ID,"	音楽の音量を6に設定します。																						
+"MUSIC_VOLUME_7_ID,"	音楽の音量を7に設定します。																						
+"MUSIC_VOLUME_8_ID,"	音楽の音量を8に設定します。
+"MUSIC_VOLUME_9_ID,"	音楽の音量を9に設定します。
+"EFFECTS_VOLUME_0_ID,"	効果音を消します。
+"EFFECTS_VOLUME_1_ID,"	効果音の音量を1に設定します。
+"EFFECTS_VOLUME_2_ID,"	効果音の音量を2に設定します。
+"EFFECTS_VOLUME_3_ID,"	効果音の音量を3に設定します。
+"EFFECTS_VOLUME_4_ID,"	効果音の音量を4に設定します。
+"EFFECTS_VOLUME_5_ID,"	効果音の音量を5に設定します。
+"EFFECTS_VOLUME_6_ID,"	効果音の音量を6に設定します。
+"EFFECTS_VOLUME_7_ID,"	効果音の音量を7に設定します。
+"EFFECTS_VOLUME_8_ID,"	効果音の音量を8に設定します。
+"EFFECTS_VOLUME_9_ID,"	効果音の音量を9に設定します。
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
+"HERO_SPEED_WALK_ID,"	勇者の移動速度を最低速度に設定します。
+"HERO_SPEED_CANTER_ID,"	勇者の移動速度を駆け足に設定します。
+"HERO_SPEED_GALLOP_ID,"	勇者の移動速度をギャロップに設定します。
+"HERO_SPEED_JUMP_ID,"	"勇者の移動速度をジャンプに設定します。
+（アニメーション表示はされません－最高速度）"
+"AI_SPEED_CANTER_ID,"	敵の移動速度を駆け足に設定します。
+"AI_SPEED_GALLOP_ID,"	敵の移動速度をギャロップに設定します。
+"AI_SPEED_JUMP_ID,"	"敵の移動速度をジャンプに設定します。
+（アニメーション表示はされません－最高速度）"
+"AI_SPEED_NONE_ID,"	敵の移動が表示されません。
+"WINDOW_SCROLL_SLOW,"	マップのスクロール速度を低速に設定します。
+"WINDOW_SCROLL_MEDIUM,"	マップのスクロール速度を中速に設定します。
+"WINDOW_SCROLL_FAST,"	マップのスクロール速度を高速に設定します。
+"SHOW_PATH_ID,"	"{移動ルートを表示}
+
+選択すると勇者を移動させずに移動パスが表示されま
+す。"
+"MOVE_REMINDER_ID,"	"{警告を表示}
+
+移動ポイントの残っている勇者がいる場合は、ターン
+終了時に警告文を表示するようにします。"
+"QUICK_COMBAT_ID,"	"{クイックコンバット}
+
+コンピュータにすべての戦闘を処理させ、プレイヤー
+には戦闘結果だけが表示されます。"
+"VIDEO_SUBTITLES_ID,"	"{映像のサブタイトル}
+
+各アニメーションシーンのサブタイトルを表示できま
+す。"
+VIDEO_QUALITY_LOW	"{低画質映像}
+
+マシンの動作が遅く画像をフルスクリーンで表示する
+のが難しい場合に、このオプションをお勧めします。"
+VIDEO_QUALITY_HIGH	"{高画質映像}
+
+動作の速いマシンでは大きなデータを処理できる関係
+上、このオプションを選択すると高画質の映像をお楽
+しみいただけます。"
+"TOWN_OUTLINES_ID,"	"{建物の輪郭}
+
+街の画面でアクセス可能な建物にカーソルを合わせる
+と、建物の輪郭が表示されます。"																						
+"ANIMATE_SPELLBOOK_ID,"	"{呪文書のアニメーション}
+
+呪文書のページをめくるアニメーションが表示されま
+す。"																						
+																							
+Adventure Options																							
+ワールドマップ表示	"{ワールドマップ表示}
+
+ワールドマップをバードビューで表示します。"																						
+パズルマップの表示	"{パズルマップの表示}
+
+埋められているオブジェクトのマップを表示します。"																						
+シナリオ情報の表示	"{シナリオ情報の表示}
+
+プレイ中のシナリオに関する情報が表示されます。"																						
+掘る	"{掘る}
+
+この区域を掘って聖杯を捜します。"																						
+敵のターンを見なおす	"{敵のターンを見なおす}
+
+前回の自分のターン以降の出来事を見なおします。"																						
+ROLLOVER	ROLLOVER																						
+ＯＫ	"{ＯＫ}
+
+アドベンチャーマップに戻ります。"																						
+																							
+Combat Window	Combat Window																						
+降伏	"{降伏}
+
+自軍を撤退させます。勇者が戦闘を離れるには、その
+部隊に見合ったお金が必要ですが、現在所有している
+部隊とともに、酒場ですぐに勧誘できるでしょう。"																						
+撤退	"{撤退}
+
+勇者が戦闘から手を引きます。撤退した後勇者は酒場
+ですぐに勧誘できますが、撤退前に所有していた部隊
+やクリーチャーは全ていなくなります。"																						
+戦闘オプション	"{戦闘オプション}
+
+戦闘オプションを開いて変更できます。"																						
+自動戦闘	"{自動戦闘}
+
+戦闘をコンピュータに任せることができます。自動戦
+闘の際に、自分の部隊をコントロールするには画面上
+をクリックします。次の部隊の移動をコントロールで
+きるようになります。"																						
+	戦闘テキストがここに表示されます。																						
+	戦闘中に表示されるテキストをスクロールします。																						
+呪文を使う	"{呪文を使う}
+
+勇者の呪文書を開いて呪文を唱えます。"																						
+待機	"{待機}
+
+部隊が移動できるようになるまで、この部隊のターン
+を遅らせます。"																						
+防御	"{防御}
+
+このターンでの移動を犠牲にして部隊の防御値を上げ
+ます。"																						
+待機せよ	待機せよ																						
+戦術陣形の終了	"{戦術陣形の終了}
+
+戦術陣形の操作を終えて戦闘を開始します。"																						
+																							
+Combat Options	Combat Options																						
+ゲームに戻る	"{ゲームに戻る}
+
+戦闘オプションを閉じます。"																						
+デフォルトに戻す	"{デフォルト}
+
+戦闘オプションをデフォルトに戻します。"																						
+"MUSIC_VOLUME_0_ID,"	音楽を消します。																						
+"MUSIC_VOLUME_1_ID,"	音楽の音量を1に設定します。																						
+"MUSIC_VOLUME_2_ID,"	音楽の音量を2に設定します。																						
+"MUSIC_VOLUME_3_ID,"	音楽の音量を3に設定します。																						
+"MUSIC_VOLUME_4_ID,"	音楽の音量を4に設定します。
+"MUSIC_VOLUME_5_ID,"	音楽の音量を5に設定します。
+"MUSIC_VOLUME_6_ID,"	音楽の音量を6に設定します。
+"MUSIC_VOLUME_7_ID,"	音楽の音量を7に設定します。
+"MUSIC_VOLUME_8_ID,"	音楽の音量を8に設定します。
+"MUSIC_VOLUME_9_ID,"	音楽の音量を9に設定します。
+"EFFECTS_VOLUME_0_ID,"	効果音を消します。
+"EFFECTS_VOLUME_1_ID,"	効果音の音量を1に設定します。
+"EFFECTS_VOLUME_2_ID,"	効果音の音量を2に設定します。
+"EFFECTS_VOLUME_3_ID,"	効果音の音量を3に設定します。
+"EFFECTS_VOLUME_4_ID,"	効果音の音量を4に設定します。
+"EFFECTS_VOLUME_5_ID,"	効果音の音量を5に設定します。
+"EFFECTS_VOLUME_6_ID,"	効果音の音量を6に設定します。
+"EFFECTS_VOLUME_7_ID,"	効果音の音量を7に設定します。
+"EFFECTS_VOLUME_8_ID,"	効果音の音量を8に設定します。
+"EFFECTS_VOLUME_9_ID,"	効果音の音量を9に設定します。
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
+"AUTO_CREATURES_ID,"	"{クリーチャー}
+
+自動戦闘で部隊をコントロールさせます。"
+"AUTO_SPELLS_ID,"	"{呪文}
+
+自動戦闘中に勇者が自動的に呪文を使います。"
+"AUTO_CATAPULT_ID,"	"{カタパルト}
+
+敵の城に攻城戦を仕掛けた際に、投石器部隊が攻撃す
+る要塞の部分を自動的に決めてくれます。カタパルト
+のスキルが十分にあれば、投石器の発射を自分で指揮
+することもできます。
+勇者にカタパルトのスキルがあれば、自動戦闘の際に
+コンピュータが自動的に投石器の操作を行います。"
+"AUTO_BALLISTA_ID,"	"{バリスタ}
+
+戦闘の際に、バリスタ部隊が攻撃する敵の部隊を自動
+的に決めてくれます。攻撃スキルが十分にあれば、バ
+リスタの発射を自分で指揮することもできます。
+勇者に攻撃スキルがあれば、自動戦闘の際にコンピュ
+ータが自動的にバリスタの操作を行います。"
+"AUTO_FIRST_AID_TENT_ID,"	"{救護テント}
+
+戦闘の際に、救護部隊が救護するクリーチャーを自動
+的に決めてくれます。救護スキルが十分にあれば、救
+護テントを自分で指揮することもできます。
+勇者に救護スキルがあれば、自動戦闘の際にコンピュ
+ータが自動的に救護を行います。"
+"ANIMATION_SPEED_0_ID,"	アニメーションのスピードを低速に設定します。
+"ANIMATION_SPEED_1_ID,"	アニメーションのスピードを中速に設定します。
+"ANIMATION_SPEED_2_ID,"	アニメーションのスピードを高速に設定します。
+"CREATURE_INFO_STATS_ID,"	"{全データ}
+
+各クリーチャー上にカーソルを重ねると、そのクリー
+チャーに関する情報と現在そのクリーチャーにかかっ
+ている呪文がすべて表示されます。"
+"CREATURE_INFO_SPELLS_ID,"	"{呪文のみ}
+
+各クリーチャー上にカーソルを重ねると、現在そのク
+リーチャーにかかっている呪文だけが表示されます。"
+"VIEW_HEX_ID,"	"{ヘックスグリッドを表示する}
+
+六角形のグリッドを戦闘画面の上に表示します。"
+"MOVEMENT_SHADOW_ID,"	"{移動可能範囲}
+
+選択されているクリーチャーが戦闘画面上で移動でき
+る範囲を強調表示します。"
+"SHADOW_CURSOR_ID,"	"{カーソルシャドー}
+
+カーソルのあるヘックスを強調表示します。"
+"ANIMATE_SPELLBOOK_ID,"	"{呪文書のアニメーション表示}
+
+呪文書のページをめくるアニメーションの有無を選択
+します。"																						
+																							
+View Army	View Army																						
+クリーチャー名	クリーチャー名																						
+クリーチャー数	部隊のクリーチャー数																						
+攻撃力	攻撃力																						
+防御力	防御力																						
+弾数	残り弾数																						
+ダメージ	1回の攻撃で与えられるダメージ																						
+体力	体力																						
+残りの体力	残りの体力																						
+スピード	部隊のスピード																						
+士気	士気																						
+運	運																						
+軍勢に影響する呪文	軍勢に影響する呪文																						
+部隊の解散	"{部隊の解散}
+
+軍勢の部隊を解散します。"																						
+部隊のアップグレード	"{部隊のアップグレード}
+
+選択した部隊をアップグレードさせます。"																						
+ＯＫ	"{ＯＫ}
+
+前のウィンドウに戻ります。"																						
+																							
+Spell Book	Spell Book																						
+前のページ	呪文書の前のページへめくります。																						
+次のページ	呪文書の次のページへめくります。																						
+冒険呪文	冒険呪文のページを開きます。																						
+戦闘呪文	戦闘呪文のページを開きます。																						
+風の魔法	風の魔法のページを開きます。																						
+炎の魔法	炎の魔法のページを開きます。																						
+水の魔法	水の魔法のページを開きます。																						
+地の魔法	地の魔法のページを開きます。																						
+すべての魔法	すべての流派の魔法を表示します。																						
+呪文ポイント	勇者が持っている残りの呪文ポイントです。																						
+終了	呪文書を閉じます。																						
+																							
+CampaignBrief	CampaignBrief																						
+																							
+CAMPAIGN_NAME	CAMPAIGN_NAME																						
+CAMPAIGN_DESCRIPTION	CAMPAIGN_DESCRIPTION																						
+MAP_NAME	MAP_NAME																						
+MAP_DESCRIPTION	MAP_DESCRIPTION																						
+HERO_FACE	HERO_FACE																						
+街の変更	クリックすると開始時の街を変更できます。																						
+勇者の変更	クリックすると開始時の勇者を変更できます。																						
+アーティファクトのボーナス	開始時にアーティファクトを持つことができます																						
+黄金のボーナス	開始時に黄金を多く持つことができます。																						
+資源のボーナス	開始時に資源を多く持つことができます。																						
+やり直し	"{やり直し}
+
+キャンペーンをやり直します。"																						
+キャンペーンのオープニングを表示	"{キャンペーンのオープニングを表示}
+
+キャンペーンのオープニングを表示します。"																						
+ALLY_FLAG1_ID	自分の色です。																						
+ALLY_FLAG2_ID	この色のプレイヤーは味方です。																						
+ALLY_FLAG3_ID	この色のプレイヤーは味方です。
+ALLY_FLAG4_ID	この色のプレイヤーは味方です。
+ALLY_FLAG5_ID	この色のプレイヤーは味方です。
+ALLY_FLAG6_ID	この色のプレイヤーは味方です。
+ALLY_FLAG7_ID	この色のプレイヤーは味方です。
+ALLY_FLAG8_ID	この色のプレイヤーは味方です。
+ENEMY_FLAG1_ID	この色のプレイヤーは敵です。
+ENEMY_FLAG2_ID	この色のプレイヤーは敵です。
+ENEMY_FLAG3_ID	この色のプレイヤーは敵です。
+ENEMY_FLAG4_ID	この色のプレイヤーは敵です。
+ENEMY_FLAG5_ID	この色のプレイヤーは敵です。
+ENEMY_FLAG6_ID	この色のプレイヤーは敵です。
+ENEMY_FLAG7_ID	この色のプレイヤーは敵です。
+ENEMY_FLAG8_ID	この色のプレイヤーは敵です。
+WHICHMAP_ID	これからプレイするマップのサイズです。
+MAP_AREA_1	MAP_AREA_1
+MAP_AREA_2	MAP_AREA_2
+MAP_AREA_3	MAP_AREA_3
+MAP_AREA_4	MAP_AREA_4
+MAP_AREA_5	MAP_AREA_5
+MAP_AREA_6	MAP_AREA_6
+MAP_AREA_7	MAP_AREA_7
+MAP_AREA_8	MAP_AREA_8
+MAP_AREA_9	MAP_AREA_9
+MAP_AREA_10	MAP_AREA_10
+MAP_AREA_11	MAP_AREA_11
+MAP_AREA_12	MAP_AREA_12
+MAP_AREA_13	MAP_AREA_13
+MAP_AREA_14	MAP_AREA_14
+MAP_AREA_15	MAP_AREA_15
+MAP_AREA_16	MAP_AREA_16
+MAP_AREA_17	MAP_AREA_17
+MAP_AREA_18	MAP_AREA_18
+MAP_AREA_19	MAP_AREA_19
+MAP_AREA_20	MAP_AREA_20
+MAP_AREA_21	MAP_AREA_21
+MAP_AREA_22	MAP_AREA_22
+MAP_AREA_23	MAP_AREA_23
+MAP_AREA_24	MAP_AREA_24
+MAP_AREA_25	MAP_AREA_25
+MAP_AREA_26	MAP_AREA_26
+MAP_AREA_27	MAP_AREA_27
+MAP_AREA_28	MAP_AREA_28
+MAP_AREA_29	MAP_AREA_29
+MAP_AREA_30	MAP_AREA_30
+MAP_AREA_31	MAP_AREA_31
+MAP_AREA_32	MAP_AREA_32
+	
+CampaignWindow	CampaignWindow																						
+																							
+女王陛下に栄えあれ	女王陛下に栄えあれ																						
+解放	解放																						
+戦利品	戦利品																						
+父に捧げし歌	父に捧げし歌																						
+ダンジョンズ＆デビルズ	ダンジョンズ＆デビルズ																						
+国王陛下に栄えあれ	国王陛下に栄えあれ																						
+不満の種子	不満の種子																						
+女王陛下に栄えあれ	「女王陛下に栄えあれ」を開始します。																						
+解放	「解放」を開始します。																						
+戦利品	「戦利品」を開始します。																						
+父に捧げし歌	「父に捧げし歌」を開始します。																						
+ダンジョン＆デビルズ	「ダンジョン＆デビルズ」を開始します。																						
+国王陛下に栄えあれ	「国王陛下に栄えあれ」を開始します。																						
+不満の種子	「不満の種子」を開始します。																						
+カスタムキャンペーン	カスタムキャンペーン画面を表示します。																						
+ROLLOVER	ROLLOVER																						
+																							
+Recruit	Recruit																						
+最大数																							
+雇う																							
+キャンセル																							
+																							
+Multiplayer	Multiplayer																						
+チェックボックス	ここをクリックすると名前が有効/無効に切り換わります。																						
+プレイヤー名を入力	プレイヤーの名前を入力してください。																						
+ＯＫ																							
+戻る																							
+セッション名を入力																							
+パスワードを入力																							
+セッション名																							
+ＩＰアドレスを入力																							
+																							
+Sacrifice Window	Sacrifice Window																						
+終了 (生贄を捧げない)	"祭壇はそのままです。祭壇に捧げられたアイテムはす
+べて戻ってきます。"																						
+現在持っているアーティファクト																							
+バックパックのアーティファクトをすべて祭壇に捧げる	"勇者のバックパックに入っているアイテムをすべて祭
+壇に捧げます。"																						
+すべてのアーティファクトを祭壇に捧げる	"勇者が身につけているアーティファクトとバックパッ
+クの中身をすべて祭壇に捧げます。"																						
+クリーチャーを生贄にする	"クリーチャーの生贄に切り替えます。悪魔と中立の勇
+者でのみ有効です。"																						
+クリーチャーの数 / 生贄にする数																							
+選択されているクリーチャー																							
+クリーチャーの数 / 生贄にする数																							
+生贄にするクリーチャーの数																							
+生贄にするクリーチャーの数を設定する																							
+捧げられるだけのクリーチャーを生贄にする	捧げられるすべてのクリーチャーを祭壇に捧げます。																						
+勇者の軍勢にいるクリーチャーをすべて生贄にする	クリーチャーを一体残してすべて祭壇に捧げます。																						
+アーティファクトを生贄にする	"アーティファクトの生贄に切り替えます。善と中立の
+勇者でのみ有効です。"																						
+クリーチャーの数 / 生贄にする数																							
+生贄にするアーティファクトをここにもってくる																							
+生贄にするアーティファクトの経験値																							
+祭壇に捧げたアーティファクトを生贄にする	祭壇に捧げたものをすべて生贄にして、経験を身につけます。																						
+祭壇に捧げたクリーチャーを生贄にする	祭壇に捧げたものをすべて生贄にして、 経験を身につけます。																						
+	バックパックの中身を見ます。																						
+	バックパックの中身を見ます。																						
+																							
+Skeleton Transformer	Skeleton Transformer																						
+すべてのクリーチャーを変換機へ	すべてのクリーチャーを変換機に移動します。																						
+変換機のクリーチャーをスケルトンにする	変換機の中のクリーチャーをスケルトンにします。																						
+変換しないで終了	変換機はそのままです。クリーチャーは変換しません。																						
+																							
+Trade Window	Trade Window																						
+交換																							
+すべて																							
+他のプレイヤーに資源を譲渡																							
+アーティファクトを買う																							
+クリーチャーを売る																							
+終了																							
+																							
+Give Resource Window	Give Resource Window																						
+交換																							
+すべて																							
+資源を交換																							
+アーティファクトを買う																							
+終了																							
+																							
+Buy Artifact Window	Buy Artifact Window																						
+交換																							
+資源を交換																							
+他のプレイヤーに資源を譲渡																							
+アーティファクトを売る																							
+終了																							
+																							
+Sell Artifact Window	Sell Artifact Window																						
+交換																							
+資源を交換																							
+他のプレイヤーに資源を譲渡																							
+アーティファクトを買う																							
+終了																							
+																							
+Sell Creature Window	Sell Creature Window																						
+交換																							
+すべて																							
+資源を交換																							
+他のプレイヤーに資源を譲渡																							
+終了																							
+																							
+University Window	University Window																						
+キャンセル	スキル選択画面に戻ります。																						
+大学を出る	大学を出ます。																						
+	黄金%dで%s%sを修得しました。																						
+Not used…  filthy bug.																							
+Insert all data before this line. Do not alter or delete this line.																							
+
+
+
+																							

@@ -1,0 +1,40 @@
+Compiled Game Text	
+This text must be pasted into the code after translation. Do not put this text into a LOD file.	
+Variable Name (reference only)	Text
+cAPPNAME	Heroes III
+cAPPTITLE	Heroes of Might and Magic III
+cINIT_FAILED	Initialization failed!
+cNO_OPEN_RESOURCE_MANAGER	Unable to initialize resources - possible disk problem.
+cUNEXPECTED_TERMINATION 	Unexpected Program Termination
+cDEFAULT_NET_NAME	Unknown Hero
+cMUST_HAVE_16BIT_COLOR	This game runs in 65536 color mode. The desktop must be switched to this mode before playing the game in a window.
+cSTARTUP_ERROR	Startup error
+cONLY_ONE_COPY	Heroes of Might and Magic III is already running.
+cHEROES3_ERROR	\n%s\n\nHeroes III encountered an error\n\n
+	Main Menu
+	&File
+	&Display
+	&Help
+	File Menu
+	&Quit
+	Display Menu
+	&Full Screen (F4)
+	Help Menu
+	On Line &Manual
+	About
+	About Box
+	Heroes of Might and Magic III
+	Version %s
+	Copyright 1996-99 The 3DO Company.
+	All Rights Reserved.
+	"Heroes of Might and Magic, New World Computing, 3DO, and their respective logos, are trademarks and/or service marks of The 3DO Company in the U.S. and other countries.  All other trademarks belong to their respective owners."
+	New World Computing is a division of The 3DO Company.
+	OK
+	
+	
+	
+	
+	
+	
+	
+	
