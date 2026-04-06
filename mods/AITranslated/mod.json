@@ -10,7 +10,6 @@
 		"config/vcmi-japanese-ai/game.json",
 		"config/vcmi-japanese-ai/maps.json",
 		"config/vcmi-japanese-ai/campaigns.json",
-		"config/vcmi-japanese-ai/chronicles.json",
-		"config/vcmi-japanese-ai/vcmi.json"
+		"config/vcmi-japanese-ai/chronicles.json"
 	]
 }
